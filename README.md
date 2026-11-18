@@ -6,7 +6,7 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-link website: https://juliettehc.github.io/Herkansing-FED/ 
+
 
 
 
@@ -16,13 +16,16 @@ link website: https://juliettehc.github.io/Herkansing-FED/
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Juliette Young
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauwe piste
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
+
+  #### Gekozen website:
+  https://cabaulifestyle.com/nl 
  
 </details>
 
