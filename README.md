@@ -61,6 +61,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+
+  Samen met Madelief heb ik de originele website van Cabau Lifestyle getest op toegankelijkheid. Hiervoor hebben we VoiceOver op een Mac en de WCAG-checklist gebruikt.
+
+
+  Tijdens de VoiceOver-test merkten we dat de website niet altijd logisch werd voorgelezen. Sommige links werden als knoppen benoemd en andersom. Ook begon VoiceOver video's op te noemen terwijl we nog niet bij dat gedeelte van de website waren. Daarnaast werden sommige kopjes overgeslagen of niet goed voorgelezen.
+
+  Uit de WCAG-checklist kwamen meerdere aandachtspunten:
+
+  - De website bevat twee H1-koppen.
+  - De alternatieve teksten bij afbeeldingen voldeden niet aan de controles.
+  - Bij het navigeren met het toetsenbord was de focus niet altijd duidelijk zichtbaar en was de volgorde niet logisch.
+  - Video's speelden automatisch af en de mediacontroles werden niet goedgekeurd.
+  - Verschillende controles voor knoppen en links werden niet goedgekeurd.
+
+  Er gingen ook dingen goed. De website scoorde goed op de mobiele controles en de gecontroleerde kleurcontrasten.
+
+  ### Verbeterpunten voor mijn website
+
+  Bij het nabouwen van de website wil ik extra letten op een logische HTML-structuur, duidelijke links en knoppen en goede alternatieve teksten bij afbeeldingen. Ook wil ik ervoor zorgen dat de website met het toetsenbord te bedienen is en dat de voorleesvolgorde van VoiceOver logisch is.
+  
+
 </details>
 
 
