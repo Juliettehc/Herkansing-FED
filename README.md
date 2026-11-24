@@ -43,11 +43,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/website-fotos/homepage.PNG" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/website-fotos/bloomclub.PNG" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -91,14 +91,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### de home page 1/2: 
+  <img src="readme-images/website-fotos/breakdown-home-1.jpg" width="375px" alt="deel 1 van de breakdown home page">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### de home page 2/2: 
+  <img src="readme-images/website-fotos/breakdown-home-2.jpg" width="375px" alt="deel 2 van de breakdown home page">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### de bloomclub page 1/2: 
+  <img src="readme-images/website-fotos/breakdown-bloomclub-1.jpg" width="375px" alt="deel 1 van de breakdown bloomclub page">
+
+  ### de bloomclub page 2/2: 
+  <img src="readme-images/website-fotos/breakdown-bloomclub-2.jpg" width="375px" alt="deel 2 van de breakdown bloomclub page">
 
 </details>
 
